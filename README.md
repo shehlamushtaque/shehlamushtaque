@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">
+  <a href="https://scholar.google.com/citations?user=TwfHQjYAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar">
+</a>
   <a href="https://orcid.org/0009-0006-6617-3221">
     <img src="https://img.shields.io/badge/ORCID-0009--0006--6617--3221-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
   </a>
@@ -13,9 +16,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Shehla%20Mushtaq-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:shehlamushtaq63@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shehlamushtaq63%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-   <a href="mailto:shehlamushtaq63@gmail.com">
     <img src="https://img.shields.io/badge/Email-shehlamushtaq63%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
