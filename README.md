@@ -1,4 +1,4 @@
-<h1 align="center">Shehla Mushtaq</h1>
+<h1 align="center">Shehla</h1>
 
 <p align="center">
   <b>MS in AI in Digital Anti-Aging & Healthcare</b> · Inje University ·
