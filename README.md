@@ -15,6 +15,9 @@
   <a href="mailto:shehlamushtaq63@gmail.com">
     <img src="https://img.shields.io/badge/Email-shehlamushtaq63%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
+   <a href="mailto:shehlamushtaq63@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shehlamushtaq63%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
