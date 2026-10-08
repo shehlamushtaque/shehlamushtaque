@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/ORCID-0009--0006--6617--3221-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
   </a>
   <a href="https://www.linkedin.com/in/shehla-mushtaq-015343228/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shehla%20Mushtaq-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Shehla?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:shehlamushtaq63@gmail.com">
     <img src="https://img.shields.io/badge/Email-shehlamushtaq63%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
